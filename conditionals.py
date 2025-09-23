@@ -20,3 +20,13 @@ elif grade >= 70:
 else:
     print("F")
 
+
+#example 3: password check
+password = input("Enter password: ")
+if password == "secret123":
+    print("Access granted")
+else:
+    print("Access denied")
+
+
+
