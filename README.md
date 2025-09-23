@@ -1,9 +1,5 @@
-﻿# Python Backend Roadmap Progress
-Perfect 👍 let’s make your **README.md** clean and beginner-friendly.
-Here’s the full content you can paste into your `README.md` file:
-
+﻿# My journey with backend 
 ---
-
 # Python Backend Roadmap Progress
 
 This repository documents my journey through the **Backend Development Roadmap**.
